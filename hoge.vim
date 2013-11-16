@@ -1,2 +1,2 @@
-let g:msg = 'hello, world'
+let g:msg = 'Hello, World'
 echo g:msg
